@@ -1,0 +1,14 @@
+#Ingore Backup files (dont nedded for clone)
+bkp/
+
+#Ignore log files
+*.log
+
+#Ignore GTA SA Folders and files
+anim/
+audio/
+data/
+models/
+text/
+movies/
+*.ttf
